@@ -1,0 +1,18 @@
+.subhead{
+    font-style: italic;
+}
+.font{
+    font-family: sans-serif;
+}
+.Education {
+    color: rgb(0, 0, 0);
+}
+.Experience {
+    color: rgb(86, 85, 85);
+}
+.leadership {
+    color: rgb(107, 106, 106);
+}
+.awards {
+    color: rgb(163, 163, 163);
+}
